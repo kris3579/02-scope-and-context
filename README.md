@@ -1,19 +1,25 @@
-![cf](https://i.imgur.com/7v5ASc8.png) 02: Scope and Context
-======
+#Tools and Context
 
-## Submission Instructions
-* Work in a fork of this repository
-* Work in a branch on your fork
-* Open a pull request to your main master branch
-* Submit on canvas a question and observation, how long you spent, and a link to your pull request
+Answering quiz questions from the book
 
-## Configuration
-Configure the root of your repository with the following files and directories. Thoughtfully name and organize any additional configuration or module files.
+##Getting Started
 
-* 01-what-is-scope.md
-* 02-lexical-scope.md
-* 03-function-vs-block-scope.md
-* 04-hoisting.md
+- Fork repo
+- Clone repo into local device
+- Create a src folder
+- Create a test folder within the src folder
+- Your test.js file will be within the test folder
+- Create a lib folder within the src folder
+- Your js files will be in the lib folder
+- Create a data folder within the src folder
+- Your "data" (txt files, json or some such) will go in the data folder
+- run "npm i" to install all necessary packages based on your dependencies
+- To run your tests run "npm run test" in the test folder from your terminal
 
-## Feature Tasks
-Write the questions and answers for the quizes in the corresponding 'You Don't Know JS: Scope & Closures' chapter.
+##Author
+
+Kris Esvelt
+
+##License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
